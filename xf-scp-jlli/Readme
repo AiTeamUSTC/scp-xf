@@ -1,0 +1,9 @@
+build commands:(in linux system)
+
+cmake .
+make
+
+note:
+1) binary file will be put into ./bin/
+2) ./build/ contains build output/information
+3) command "doxygen" will generate documents in ./doc/
